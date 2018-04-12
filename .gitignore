@@ -104,3 +104,5 @@ ENV/
 .DS_Store
 .idea/
 nltk_data/
+stanfordSentimentTreebank
+GoogleNews-vectors-negative300.bin.gz
