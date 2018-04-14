@@ -19,7 +19,7 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 
 ### Learning Sequence
 
-|   | Title | Content | Slide |
+|   | Title | Notes | Slide |
 |---| ----- | -------- | ----- |
 | 1 | Lecture1 | [Introduction](./notes/Lecture1_Introduction/Lecture1.md)| [Lecture 1: Introduction](./notes/Lecture1_Introduction/lecture1.pdf) |
 | 2 | Lecture2 | [WordVectors](./notes/Lecture2_WordVectors/Lecture2.ipynb)| [Lecture 2: Word Vectors](./notes/Lecture2_WordVectors/lecture2.pdf) |
