@@ -13,7 +13,7 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 
 ### Directory Introduction
 
-- **notes** includes the Courseware for CS224N and my notes.
+- **notes** includes the slides for CS224N and my notes.
 - **ResearchHighlights** includes some data of research highlight in CS224N.
 - **Assignments** includes the code of assignment.
 
@@ -25,3 +25,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 2 | Lecture2 | [Word Vectors](./notes/Lecture2_WordVectors/Lecture2.ipynb)| [Lecture 2: Word Vectors](./notes/Lecture2_WordVectors/lecture2.pdf) |
 | 3 | Research Highlights1 | [Sentence2vec](./ResearchHighlights/Lecture1_Sentence2vec/Sentence2vec.ipynb)| |
 | 4 | Lecture3 | [More Word Vectors](./notes/Lecture3_MoreWordVectors/Lecture3.ipynb)| [Lecture 3: More Word Vectors](./notes/Lecture3_MoreWordVectors/lecture3.pdf) |
+| 5 | Research Highlights2 | [Sentence2vec](./ResearchHighlights/Lecture2_Polysemy/Polysemy.ipynb)| |
