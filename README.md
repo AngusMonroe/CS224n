@@ -27,4 +27,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 4 | Lecture3 | [More Word Vectors](./notes/Lecture3_MoreWordVectors/Lecture3.ipynb)| [Lecture 3: More Word Vectors](./notes/Lecture3_MoreWordVectors/lecture3.pdf) |
 | 5 | Research Highlights2 | [Sentence2vec](./ResearchHighlights/Lecture2_Polysemy/Polysemy.ipynb)| |
 | 6 | Lecture4 | [Word Window Classification & Neural Networks](./notes/Lecture4_WordWindowClassification&NeuralNetworks/Lecture4.ipynb)| [Lecture 4: Word Window Classification & Neural Networks](./notes/Lecture4_WordWindowClassification&NeuralNetworks/lecture4.pdf) |
-
+| 7 | Lecture5 | [Backpropagation](./notes/Lecture5_Backpropagation/Lecture5.ipynb)| [Lecture 5: Backpropagation](./notes/Lecture5_Backpropagation/lecture5.pdf) |
