@@ -30,3 +30,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 7 | Lecture5 | [Backpropagation](./notes/Lecture5_Backpropagation/Lecture5.ipynb)| [Lecture 5: Backpropagation](./notes/Lecture5_Backpropagation/lecture5.pdf) |
 | 8 | Research Highlights3 | [Efficient Text Classification](./ResearchHighlights/Lecture3_EfficientTextClassification/EfficientTextClassification.ipynb)| |
 | 9 | Lecture6 | [Dependency Parsing](./notes/Lecture6_DependencyParsing/Lecture6.ipynb)| [Lecture 6: Dependency Parsing](./notes/Lecture6_DependencyParsing/lecture6.pdf) |
+| 10 | Research Highlights4 | [Improving Distributional Similarity With Word Embeddings](./ResearchHighlights/Lecture4_ImprovingDistributionalSimilarityWithWordEmbeddings/ImprovingDistributionalSimilarityWithWordEmbeddings.ipynb)| |
