@@ -33,3 +33,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 10 | Research Highlights4 | [Improving Distributional Similarity With Word Embeddings](./ResearchHighlights/Lecture4_ImprovingDistributionalSimilarityWithWordEmbeddings/ImprovingDistributionalSimilarityWithWordEmbeddings.ipynb)| |
 | 11 | Assignment1 | [assignment1](./Assignments/assignment1)| [CS224n Assignment1](http://web.stanford.edu/class/cs224n/assignment1/index.html) |
 | 12 | Lecture7 | [Tensorflow Introduction](./notes/Lecture7_TensorflowIntroduction/Lecture7.ipynb)| [Lecture 7:Tensorflow Introduction](./notes/Lecture7_TensorflowIntroduction/lecture7.pdf) |
+| 13 | Research Highlights5 | [Visual Dialog](./ResearchHighlights/Lecture5_VisualDialog/VisualDialog.ipynb)| |
