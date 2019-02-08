@@ -35,3 +35,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 12 | Lecture7 | [Tensorflow Introduction](./notes/Lecture7_TensorflowIntroduction/Lecture7.ipynb)| [Lecture 7:Tensorflow Introduction](./notes/Lecture7_TensorflowIntroduction/lecture7.pdf) |
 | 13 | Research Highlights5 | [Visual Dialog](./ResearchHighlights/Lecture5_VisualDialog/VisualDialog.ipynb)| |
 | 14 | Lecture8 | [Recurrent Neural Networks](./notes/Lecture8_RecurrentNeuralNetworks/Lecture8.ipynb)| [Lecture 8:Recurrent Neural Networks](./notes/Lecture8_RecurrentNeuralNetworks/lecture8.pdf) |
+| 15 | Research Highlights6 | [Structured Training for Neural Network Transition-Based Parsing.ipynb](./ResearchHighlights/Lecture6_StructuredTrainingForNeuralNetworkTransition-BasedParsing/StructuredTrainingForNeuralNetworkTransition-BasedParsing.ipynb)| |
