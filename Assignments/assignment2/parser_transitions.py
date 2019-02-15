@@ -30,7 +30,9 @@ class PartialParse(object):
         ###
         ### Note: The root token should be represented with the string "ROOT"
         ###
-
+        self.stack = ["ROOT"]
+        self.buffer = list(sentence)
+        self.dependencies = []
 
         ### END YOUR CODE
 
@@ -50,7 +52,18 @@ class PartialParse(object):
         ###         2. Left Arc
         ###         3. Right Arc
 
-
+        # Assume proved transition is legal transition
+        if transition == 'S' and len(self.buffer) > 0:
+            word = self.buffer.pop(0)
+            self.stack.append(word)
+        if transition == 'LA' :
+            head = self.stack[-1]
+            dependent = self.stack.pop(-2)
+            self.dependencies.append((head, dependent))
+        if transition == 'RA':
+            head = self.stack[-2]
+            dependent = self.stack.pop()
+            self.dependencies.append((head, dependent))
         ### END YOUR CODE
 
     def parse(self, transitions):
@@ -101,9 +114,20 @@ def minibatch_parse(sentences, model, batch_size):
     ###             to remove objects from the `unfinished_parses` list. This will free the underlying memory that
     ###             is being accessed by `partial_parses` and may cause your code to crash.
 
+    num_sentences     = len(sentences)
+    partial_parses    = [PartialParse(sentence) for sentence in sentences]
+    unfinished_parses = partial_parses[:] # shallow copy of pp
+
+    while len(unfinished_parses) > 0:
+        parsers = unfinished_parses[:batch_size]
+        batch_transitions = model.predict(parsers)
+        for pp, transition in zip(parsers, batch_transitions):
+            pp.parse([transition])
+            if len(pp.buffer) == 0 and len(pp.stack) == 1:
+                unfinished_parses.remove(pp)
 
     ### END YOUR CODE
-
+    dependencies = [pp.dependencies for pp in partial_parses]
     return dependencies
 
 
