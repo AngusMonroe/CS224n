@@ -40,3 +40,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 16 | Research Highlights7 | [Builiding Towards Better Language Modeling](./ResearchHighlights/Lecture7_BuilidingTowardsBetterLanguageModeling/BuilidingTowardsBetterLanguageModeling.ipynb)| |
 | 17 | Assignment2 | [assignment2](./Assignments/assignment2)| [CS224n Assignment2](http://web.stanford.edu/class/cs224n/assignment2/index.html) |
 | 18 | Lecture10 | [Neural Machine Translation and Models with Attention](./notes/Lecture10_NeuralMachineTranslation&ModelsWithAttention/Lecture10.ipynb)| [Lecture9:Machine Translation and Advanced Recurrent LSTMs and GRUs](./notes/Lecture10_NeuralMachineTranslation&ModelsWithAttention/lecture10.pdf) |
+| 19 | Assignment3 | [assignment3](./Assignments/assignment3)| [CS224n Assignment3](http://web.stanford.edu/class/cs224n/assignment3/index.html) |
