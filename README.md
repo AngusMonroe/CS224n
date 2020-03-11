@@ -43,3 +43,4 @@ You could download vedioes and ppts in [there](https://pan.baidu.com/s/1i5BYo53)
 | 19 | Assignment3 | [assignment3](./Assignments/assignment3)| [CS224n Assignment3](http://web.stanford.edu/class/cs224n/assignment3/index.html) |
 | 20 | Research Highlights8 | [Gooele's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translarion](./ResearchHighlights/Lecture8_GoogleMultilingualNeuralMachineTranslationSystem/GoogleMultilingualNeuralMachineTranslationSystem.ipynb)| |
 | 21 | Lecture11 | [Lecture 11 Gated Recurrent Units and Further Topics in NMT](./notes/Lecture11_GatedRecurrentUnits&FurtherTopicsInNMT/Lecture11.ipynb)| [Lecture11:Lecture 11 Gated Recurrent Units and Further Topics in NMT](./notes/Lecture11_GatedRecurrentUnits&FurtherTopicsInNMT/lecture11.pdf) |
+| 22 | Research Highlights9 | [Lip Reading Sentences in the Wild](./ResearchHighlights/Lecture9_LipReadingSentencesInTheWild/LipReadingSentencesInTheWild.ipynb)| |
